@@ -1,2 +1,1 @@
-My first readme
-update readme 
+The start of DevOps and Software Engineering mastery
